@@ -57,7 +57,7 @@ body{
     animation-delay: 1.8s;
 }
 .greetings > span:nth-child(11){
-    animation-delay: 1.9s;
+    animation-delay: 2.0s;
 }
 .description{
     font-size: 1.5rem;
